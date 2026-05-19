@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BedrockConnect",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BedrockConnect",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "UNA_Access.aternos.me",
+    "port": 35748,
     "version": "",
     "try-creative": false
   },
