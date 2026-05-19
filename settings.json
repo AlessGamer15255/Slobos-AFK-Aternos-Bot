@@ -8,7 +8,7 @@
   "server": {
     "ip": "UNA_Access.aternos.me",
     "port": 35748,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
